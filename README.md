@@ -40,7 +40,7 @@ attendease/
 ⚙ Installation & Setup
 
 Clone the repository and install dependencies:
-git clone https://github.com/GauravVerma789/attendease.git
+git clone https://github.com/CodingWithDevraj/AttendEase
 cd attendease
 
 # Install frontend
